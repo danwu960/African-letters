@@ -1,0 +1,4 @@
+ts.o : Kp atu
+; t the residen
+sn bet
+
